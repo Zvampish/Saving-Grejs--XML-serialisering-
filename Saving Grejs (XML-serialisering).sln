@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saving Grejs (XML-serialisering)", "Saving Grejs (XML-serialisering)\Saving Grejs (XML-serialisering).csproj", "{2A2675FC-4302-4845-B641-E7056B8E29B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saving_Grejs", "Saving Grejs (XML-serialisering)\Saving_Grejs.csproj", "{2A2675FC-4302-4845-B641-E7056B8E29B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
