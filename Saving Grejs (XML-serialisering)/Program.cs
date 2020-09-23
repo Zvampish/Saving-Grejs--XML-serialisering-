@@ -9,7 +9,7 @@ namespace Saving_Grejs__XML_serialisering_
             Console.WriteLine("Hello World!");
 
             Enemy e1 = new Enemy();
-            e1.hp = "100";
+            e1.hp = 100;
             
         }
     }
